@@ -1,2 +1,4 @@
 Flask
+gradio
 requests
+gunicorn
